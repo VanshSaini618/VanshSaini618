@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-photo/cartoon-girl-with-glasses-working-digital-workstation-surrounded-by-vibrant-data-screens-charts_124865-97945.jpg?w=1380)]
 <h1 align="center">Hi 👋, I'm Vansh Saini</h1>
 <h3 align="center">Full-Stack Developer | DSA Geek | Always Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2546427.htm#fromView=search&page=1&position=15&uuid=9568df56-8989-4ace-bca2-b6835f4b0e9c&query=Github+character+gif">
 
 
 - 🔭 I’m currently working on *Web development and AI-ML*
